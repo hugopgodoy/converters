@@ -1,14 +1,14 @@
 # TDD chalenge
 
 ## Desafio
-Escrever um conversor de números naturais para romanos usando TDD (Test Driven Developement)
+Escrever um conversor de números naturais para romanos usando TDD (Test Driven Development)
 
-- 1. Fazer um _fork_ em sua conta do Github
-- 2. Criar uma _branch_ saindo da `dev` em seu form
+- 1. Fazer um _fork_ em sua conta do GitHub
+- 2. Criar uma _branch_ saindo da `dev` em seu _fork_
 - 3. Fazer o conversor sobre o esqueleto da dev já montado
 - 4. Fazer um Pull Request (PR) para a `dev` do repositório _hugopgodoy/converters.git_
 
-> Obs: Existe uma solução na _branch_ `master` para consulta caso tenha dificuldades
+> Obs: Existe uma solução pronta na _branch_ `master` para consulta
 
 ## Setup (caso queira usar este mesmo projeto)
 - Install _rvm_ && _ruby_ (https://rvm.io/)
